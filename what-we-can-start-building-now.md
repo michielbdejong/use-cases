@@ -7,17 +7,6 @@ different questions from building server-side software, and I suggest
 we don't try to build both, because that's twice as much work. :) So
 some project ideas:
 
-* "hosted reader": find an open source hosted reader application (or
-build one from scratch), and make it more compatible with our
-publishing tools. If we build something that works, then IndieHosters
-can immediately roll it out to our existing user base as a stand-alone
-application, or it can be shipped as  an integrated part of Known,
-ownCloud, and/or Cozy (depending on the language we write it in).
-
-* "reader app": same, but for a client-side reader app instead of a
-hosted one. E.g.: improve "dynamic bookmarks" (the rss reader part of
-Firefox) to displays notifications when something comes in.
-
 * "private sharing": add support for unguessable URLs to an existing
 publishing tool. Maybe syndicate to a Twitter DM, or to email?
 
